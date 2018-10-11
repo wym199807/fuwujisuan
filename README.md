@@ -1,6 +1,6 @@
 
 # selpg
-具体要求与说明：[ 开发 Linux 命令行实用程序 ](https://www.ibm.com/developerworks/cn/linux/shell/clutil/index.html)
+
 # 说明
 ## 1. 命令格式  
 ```java
